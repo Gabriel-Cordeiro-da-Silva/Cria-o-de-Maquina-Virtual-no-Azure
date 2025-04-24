@@ -1,2 +1,2 @@
-# Cria-o-de-Maquina-Virtual-no-Azure
+# Crição-de-Maquina-Virtual-no-Azure
 mini tutorial para -Criação de Maquina Virtual no Microsoft Azure-
