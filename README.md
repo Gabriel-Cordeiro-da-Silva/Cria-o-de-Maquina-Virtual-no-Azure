@@ -6,7 +6,7 @@
 
 Este repositório documenta o processo de criação e configuração de uma máquina virtual (VM) no Microsoft Azure. O objetivo é aplicar os conhecimentos adquiridos sobre computação em nuvem, especificamente na plataforma Azure, e compartilhar a experiência por meio de documentação técnica clara e estruturada.
 
-## 🎯 Objetivos do Desafio
+## 🎯 Objetivos
 
 - Aplicar conceitos de computação em nuvem em um ambiente prático.
 - Documentar processos técnicos de forma clara e estruturada.
