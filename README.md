@@ -2,6 +2,8 @@
 
 ## 📌 Introdução
 
+💡 Em caso de dúvidas sobre os termos utilizados neste repositório, consulte o [Glossário de Termos Técnicos](glossario.md) disponível para facilitar a compreensão.
+
 Este repositório documenta o processo de criação e configuração de uma máquina virtual (VM) no Microsoft Azure, conforme proposto no desafio da DIO. O objetivo é aplicar os conhecimentos adquiridos sobre computação em nuvem, especificamente na plataforma Azure, e compartilhar a experiência por meio de documentação técnica clara e estruturada.
 
 ## 🎯 Objetivos do Desafio
@@ -101,6 +103,3 @@ Este repositório documenta o processo de criação e configuração de uma máq
 - [Documentação do Azure sobre Máquinas Virtuais](https://learn.microsoft.com/pt-br/azure/virtual-machines/)
 - [Guia de Segurança para Máquinas Virtuais no Azure](https://learn.microsoft.com/pt-br/azure/security/fundamentals/virtual-machines-overview)
 
-## ✅ Conclusão
-
-A criação e configuração de uma máquina virtual no Microsoft Azure proporcionam uma compreensão prática dos conceitos de computação em nuvem. permitindo aplicar conhecimentos teóricos em um ambiente real, além de reforçar a importância da documentação técnica e das boas práticas de segurança.
